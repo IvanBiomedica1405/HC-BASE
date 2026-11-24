@@ -1,0 +1,30 @@
+{
+  "_nota": "Plantilla de formato. Estas preguntas son ejemplos genéricos sobre Notion; no son el banco oficial. Copia este archivo como data/preguntas.json y reemplaza con preguntas aprobadas por el responsable de cada módulo. Cada módulo necesita preguntas suficientes para su examen (80 % para aprobar).",
+  "preguntas": [
+    {
+      "modulo": "N2",
+      "enunciado": "Antes de crear una página nueva en Notion, ¿qué conviene hacer primero?",
+      "opciones": [
+        { "id": "a", "texto": "Duplicar la página que más se le parezca" },
+        { "id": "b", "texto": "Buscar si ya existe una página o registro para ese tema" },
+        { "id": "c", "texto": "Crearla en tu espacio personal y avisar después" }
+      ],
+      "correctas": ["b"],
+      "explicacion": "Buscar primero evita duplicados y mantiene una sola fuente de información.",
+      "seccion_repaso": "3.1.1"
+    },
+    {
+      "modulo": "N2",
+      "enunciado": "Elige todo lo que debe tener un registro bien documentado.",
+      "opciones": [
+        { "id": "a", "texto": "Fecha y área" },
+        { "id": "b", "texto": "Qué se hizo y cuál fue el resultado" },
+        { "id": "c", "texto": "Una opinión personal sin evidencia" },
+        { "id": "d", "texto": "Siguiente acción pendiente" }
+      ],
+      "correctas": ["a", "b", "d"],
+      "explicacion": "Un registro verificable separa lo confirmado de lo supuesto y deja claro qué sigue.",
+      "seccion_repaso": "3.1.1"
+    }
+  ]
+}

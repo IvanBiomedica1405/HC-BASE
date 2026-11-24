@@ -1,0 +1,8 @@
+Coloca aquí los archivos de marca antes de empezar:
+
+  logo.svg          Logotipo principal (preferible SVG)
+  logo-oscuro.svg   Versión para fondo oscuro (opcional)
+  icono.png         Icono cuadrado de al menos 512 x 512 px (para la app instalable)
+
+Si todavía no los tienes, Claude Code usará un texto provisional "HC Promedical".
+Al llegar el logotipo, se ajustan los colores de marca en design/tokens.css.

@@ -1,0 +1,214 @@
+/*
+  Tokens de diseño del portal de HC Promedical.
+
+  Los colores de marca son una propuesta hasta contar con el logotipo oficial:
+  al llegar, se cambian --brand-* y --accent-* en este archivo y el resto se adapta.
+
+  Contrastes verificados (WCAG 2.1):
+  - Texto normal sobre fondos: 4.5:1 o más, en claro y oscuro.
+  - Bordes fuertes y anillo de foco sobre fondos: 3:1 o más.
+  - Estados (éxito, aviso, peligro) sobre su fondo suave: 4.5:1 o más.
+  Si cambias un color, vuelve a verificar el par afectado.
+*/
+
+:root {
+  color-scheme: light dark;
+
+  /* Superficies y bordes */
+  --bg: #f6f8fa;
+  --surface: #ffffff;
+  --surface-2: #eef2f6;
+  --border: #d3dae2;
+  --border-strong: #7b8898;
+
+  /* Texto */
+  --text: #12202d;
+  --text-muted: #47586a;
+
+  /* Marca */
+  --brand: #0b4f7a;
+  --brand-hover: #093f63;
+  --brand-contrast: #ffffff;
+  --brand-soft: #e3eff8;
+
+  /* Apoyo */
+  --accent: #0f766e;
+  --accent-contrast: #ffffff;
+  --accent-soft: #ddf3f0;
+
+  /* Estados: siempre con icono y texto, nunca solo color */
+  --success: #05603a;
+  --success-soft: #ddf4e8;
+  --warning: #8a4b08;
+  --warning-soft: #fdf0d8;
+  --danger: #b42318;
+  --danger-soft: #fde7e4;
+
+  /* Foco */
+  --focus: #0b63b6;
+
+  /* Tipografía */
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --text-xs: 0.8125rem;   /* 13 px: solo etiquetas y metadatos */
+  --text-sm: 0.875rem;    /* 14 px */
+  --text-base: 1rem;      /* 16 px */
+  --text-lg: 1.125rem;    /* 18 px: lectura larga */
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+  --leading-tight: 1.25;
+  --leading-body: 1.6;
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+
+  /* Espaciado en múltiplos de 4 px */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+
+  /* Forma */
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-pill: 999px;
+  --shadow-1: 0 1px 2px rgb(18 32 45 / 0.06);
+  --shadow-2: 0 4px 16px rgb(18 32 45 / 0.10);
+
+  /* Movimiento */
+  --dur-fast: 150ms;
+  --dur: 200ms;
+  --ease: cubic-bezier(0.2, 0, 0, 1);
+
+  /* Estructura */
+  --sidebar-w: 320px;
+  --content-w: 70ch;
+  --topbar-h: 56px;
+  --bottombar-h: 64px;
+  --touch-min: 44px;
+}
+
+/* Modo oscuro: automático según el sistema, o forzado con data-theme="dark" */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d1620;
+    --surface: #142230;
+    --surface-2: #1b2d3e;
+    --border: #2a3e52;
+    --border-strong: #6e869d;
+    --text: #e9eff5;
+    --text-muted: #a9b8c7;
+    --brand: #6bb7ea;
+    --brand-hover: #8cc8f0;
+    --brand-contrast: #06243a;
+    --brand-soft: #12334b;
+    --accent: #4fc3b8;
+    --accent-contrast: #06241f;
+    --accent-soft: #10332f;
+    --success: #58d39b;
+    --success-soft: #10301f;
+    --warning: #f2b35e;
+    --warning-soft: #3a2a0d;
+    --danger: #ff8a7d;
+    --danger-soft: #3d1a16;
+    --focus: #7cc4f2;
+    --shadow-1: 0 1px 2px rgb(0 0 0 / 0.4);
+    --shadow-2: 0 4px 16px rgb(0 0 0 / 0.5);
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #0d1620;
+  --surface: #142230;
+  --surface-2: #1b2d3e;
+  --border: #2a3e52;
+  --border-strong: #6e869d;
+  --text: #e9eff5;
+  --text-muted: #a9b8c7;
+  --brand: #6bb7ea;
+  --brand-hover: #8cc8f0;
+  --brand-contrast: #06243a;
+  --brand-soft: #12334b;
+  --accent: #4fc3b8;
+  --accent-contrast: #06241f;
+  --accent-soft: #10332f;
+  --success: #58d39b;
+  --success-soft: #10301f;
+  --warning: #f2b35e;
+  --warning-soft: #3a2a0d;
+  --danger: #ff8a7d;
+  --danger-soft: #3d1a16;
+  --focus: #7cc4f2;
+  --shadow-1: 0 1px 2px rgb(0 0 0 / 0.4);
+  --shadow-2: 0 4px 16px rgb(0 0 0 / 0.5);
+}
+
+/* Base */
+html {
+  font-family: var(--font-sans);
+  font-size: 100%;
+  background: var(--bg);
+  color: var(--text);
+  line-height: var(--leading-body);
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: calc(var(--topbar-h) + var(--space-4));
+}
+
+body {
+  font-size: var(--text-base);
+}
+
+/* Foco visible en todo lo interactivo */
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+
+/* Lectura cómoda */
+.lectura {
+  max-width: var(--content-w);
+  font-size: var(--text-lg);
+}
+
+/* Resaltado de la sección a la que llega un hipervínculo del índice */
+.seccion:target {
+  animation: resaltar-seccion 1600ms var(--ease) 1;
+}
+
+@keyframes resaltar-seccion {
+  0%   { background: var(--brand-soft); box-shadow: -4px 0 0 var(--brand); }
+  100% { background: transparent; box-shadow: -4px 0 0 transparent; }
+}
+
+/* Áreas táctiles mínimas */
+.tactil {
+  min-height: var(--touch-min);
+  min-width: var(--touch-min);
+}
+
+/* Movimiento reducido: sin animaciones ni desplazamiento suave */
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .seccion:target {
+    animation: none;
+    background: var(--brand-soft);
+  }
+}

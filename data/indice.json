@@ -1,0 +1,1481 @@
+{
+  "version": "1.0",
+  "descripcion": "Indice base de ingreso de HC Promedical: 10 bloques, 3 niveles.",
+  "bloques": [
+    {
+      "codigo": "1",
+      "titulo": "HC Promedical",
+      "nivel": 1,
+      "modulo_codigo": "N1",
+      "hoja": false,
+      "archivo_contenido": null,
+      "hijos": [
+        {
+          "codigo": "1.1",
+          "titulo": "Quiénes somos",
+          "nivel": 2,
+          "modulo_codigo": "N1",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "1.1.1",
+              "titulo": "Misión",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.1.1-mision.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.1.2",
+              "titulo": "Visión",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.1.2-vision.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.1.3",
+              "titulo": "Valores",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.1.3-valores.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.1.4",
+              "titulo": "A qué nos dedicamos (equipo médico, generación de oxígeno, servicios generales)",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.1.4-a-que-nos-dedicamos.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "1.2",
+          "titulo": "Cómo estamos organizados",
+          "nivel": 2,
+          "modulo_codigo": "N1",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "1.2.1",
+              "titulo": "Organigrama",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.2.1-organigrama.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.2.2",
+              "titulo": "Departamentos (Biomédica, Servicios Generales, Ventas, Administración)",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.2.2-departamentos.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.2.3",
+              "titulo": "Roles y responsabilidades",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.2.3-roles-y-responsabilidades.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.2.4",
+              "titulo": "Los 7 niveles técnicos y el plan de crecimiento",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.2.4-los-7-niveles-tecnicos-y-el-plan-de-crecimiento.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.2.5",
+              "titulo": "Pólizas y clientes (cada sede con sus registros separados)",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.2.5-polizas-y-clientes.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "1.3",
+          "titulo": "Reglas de la casa",
+          "nivel": 2,
+          "modulo_codigo": "N1",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "1.3.1",
+              "titulo": "Reglamento interno",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.3.1-reglamento-interno.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.3.2",
+              "titulo": "Código de conducta y ética profesional",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.3.2-codigo-de-conducta-y-etica-profesional.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.3.3",
+              "titulo": "Honestidad e integridad",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.3.3-honestidad-e-integridad.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.3.4",
+              "titulo": "Políticas de viáticos, vehículos y tarjetas empresariales",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.3.4-politicas-de-viaticos-vehiculos-y-tarjetas-empre.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.3.5",
+              "titulo": "Perfil de puesto, KPIs y evaluación del desempeño",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.3.5-perfil-de-puesto-kpis-y-evaluacion-del-desempeno.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "1.4",
+          "titulo": "Documentos que se firman",
+          "nivel": 2,
+          "modulo_codigo": "N1",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "1.4.1",
+              "titulo": "Contrato y compromiso de honestidad y ética",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.4.1-contrato-y-compromiso-de-honestidad-y-etica.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.4.2",
+              "titulo": "Acuses de EPP, herramientas y manuales",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.4.2-acuses-de-epp-herramientas-y-manuales.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.4.3",
+              "titulo": "Responsiva de equipo asignado",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.4.3-responsiva-de-equipo-asignado.md",
+              "hijos": []
+            },
+            {
+              "codigo": "1.4.4",
+              "titulo": "Acuse de confidencialidad",
+              "nivel": 3,
+              "modulo_codigo": "N1",
+              "hoja": true,
+              "archivo_contenido": "content/01-hc-promedical/1.4.4-acuse-de-confidencialidad.md",
+              "hijos": []
+            }
+          ]
+        }
+      ],
+      "modulos": [
+        "N1"
+      ],
+      "fuentes": [
+        {
+          "titulo": "INDUCCIÓN DE PERSONAL NUEVO",
+          "url": "https://app.notion.com/p/1ce3bde37ff380fa8bdbc3697aa4c85e"
+        },
+        {
+          "titulo": "PROGRAMA DE ONBOARDING",
+          "url": "https://app.notion.com/p/34f3bde37ff3807e9c82ec5407a3376c"
+        },
+        {
+          "titulo": "1.2 Plan de inducción biomédica",
+          "url": "https://app.notion.com/p/29a3bde37ff380489b8ae477f47f4b86"
+        }
+      ]
+    },
+    {
+      "codigo": "2",
+      "titulo": "Seguridad de la información",
+      "nivel": 1,
+      "modulo_codigo": "N2",
+      "hoja": false,
+      "archivo_contenido": null,
+      "hijos": [
+        {
+          "codigo": "2.1",
+          "titulo": "Tu acceso",
+          "nivel": 2,
+          "modulo_codigo": "N2",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "2.1.1",
+              "titulo": "Cuenta personal, nunca compartida",
+              "nivel": 3,
+              "modulo_codigo": "N2",
+              "hoja": true,
+              "archivo_contenido": "content/02-seguridad-de-la-informacion/2.1.1-cuenta-personal-nunca-compartida.md",
+              "hijos": []
+            },
+            {
+              "codigo": "2.1.2",
+              "titulo": "Contraseña y verificación en dos pasos",
+              "nivel": 3,
+              "modulo_codigo": "N2",
+              "hoja": true,
+              "archivo_contenido": "content/02-seguridad-de-la-informacion/2.1.2-contrasena-y-verificacion-en-dos-pasos.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "2.2",
+          "titulo": "Lo que se protege",
+          "nivel": 2,
+          "modulo_codigo": "N2",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "2.2.1",
+              "titulo": "Datos del hospital y de pacientes",
+              "nivel": 3,
+              "modulo_codigo": "N2",
+              "hoja": true,
+              "archivo_contenido": "content/02-seguridad-de-la-informacion/2.2.1-datos-del-hospital-y-de-pacientes.md",
+              "hijos": []
+            },
+            {
+              "codigo": "2.2.2",
+              "titulo": "Información de clientes y de la empresa",
+              "nivel": 3,
+              "modulo_codigo": "N2",
+              "hoja": true,
+              "archivo_contenido": "content/02-seguridad-de-la-informacion/2.2.2-informacion-de-clientes-y-de-la-empresa.md",
+              "hijos": []
+            },
+            {
+              "codigo": "2.2.3",
+              "titulo": "Qué se puede compartir fuera de HC y qué no",
+              "nivel": 3,
+              "modulo_codigo": "N2",
+              "hoja": true,
+              "archivo_contenido": "content/02-seguridad-de-la-informacion/2.2.3-que-se-puede-compartir-fuera-de-hc-y-que-no.md",
+              "hijos": []
+            }
+          ]
+        }
+      ],
+      "modulos": [
+        "N2"
+      ],
+      "fuentes": []
+    },
+    {
+      "codigo": "3",
+      "titulo": "Notion",
+      "nivel": 1,
+      "modulo_codigo": null,
+      "hoja": false,
+      "archivo_contenido": null,
+      "hijos": [
+        {
+          "codigo": "3.1",
+          "titulo": "Navegación en Notion",
+          "nivel": 2,
+          "modulo_codigo": "N3",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "3.1.1",
+              "titulo": "Workspace y teamspaces (General, Actividades de servicio, Biomédica, Departamentos, Órdenes de trabajo, Proceso)",
+              "nivel": 3,
+              "modulo_codigo": "N3",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.1.1-workspace-y-teamspaces.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.1.2",
+              "titulo": "Barra lateral, búsqueda y favoritos",
+              "nivel": 3,
+              "modulo_codigo": "N3",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.1.2-barra-lateral-busqueda-y-favoritos.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.1.3",
+              "titulo": "Páginas y bloques",
+              "nivel": 3,
+              "modulo_codigo": "N3",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.1.3-paginas-y-bloques.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.1.4",
+              "titulo": "Menciones y comentarios",
+              "nivel": 3,
+              "modulo_codigo": "N3",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.1.4-menciones-y-comentarios.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.1.5",
+              "titulo": "Historial de versiones",
+              "nivel": 3,
+              "modulo_codigo": "N3",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.1.5-historial-de-versiones.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "3.2",
+          "titulo": "Bases de datos",
+          "nivel": 2,
+          "modulo_codigo": "N3",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "3.2.1",
+              "titulo": "Propiedades",
+              "nivel": 3,
+              "modulo_codigo": "N3",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.2.1-propiedades.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.2.2",
+              "titulo": "Vistas y filtros",
+              "nivel": 3,
+              "modulo_codigo": "N3",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.2.2-vistas-y-filtros.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.2.3",
+              "titulo": "Relaciones entre bases",
+              "nivel": 3,
+              "modulo_codigo": "N3",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.2.3-relaciones-entre-bases.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.2.4",
+              "titulo": "Plantillas",
+              "nivel": 3,
+              "modulo_codigo": "N3",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.2.4-plantillas.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "3.3",
+          "titulo": "Convenciones HC",
+          "nivel": 2,
+          "modulo_codigo": "N4",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "3.3.1",
+              "titulo": "Buscar antes de crear; no duplicar",
+              "nivel": 3,
+              "modulo_codigo": "N4",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.3.1-buscar-antes-de-crear-no-duplicar.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.3.2",
+              "titulo": "Nombres y códigos de documento (PRE-, PRO-SER-, C-SER-)",
+              "nivel": 3,
+              "modulo_codigo": "N4",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.3.2-nombres-y-codigos-de-documento.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.3.3",
+              "titulo": "Estados, dueño y fecha de revisión",
+              "nivel": 3,
+              "modulo_codigo": "N4",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.3.3-estados-dueno-y-fecha-de-revision.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.3.4",
+              "titulo": "Dónde vive cada cosa",
+              "nivel": 3,
+              "modulo_codigo": "N4",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.3.4-donde-vive-cada-cosa.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.3.5",
+              "titulo": "Área de pruebas",
+              "nivel": 3,
+              "modulo_codigo": "N4",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.3.5-area-de-pruebas.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "3.4",
+          "titulo": "Permisos",
+          "nivel": 2,
+          "modulo_codigo": "N4",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "3.4.1",
+              "titulo": "Niveles 0 a 4",
+              "nivel": 3,
+              "modulo_codigo": "N4",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.4.1-niveles-0-a-4.md",
+              "hijos": []
+            },
+            {
+              "codigo": "3.4.2",
+              "titulo": "Cómo se sube de nivel",
+              "nivel": 3,
+              "modulo_codigo": "N4",
+              "hoja": true,
+              "archivo_contenido": "content/03-notion/3.4.2-como-se-sube-de-nivel.md",
+              "hijos": []
+            }
+          ]
+        }
+      ],
+      "modulos": [
+        "N3",
+        "N4"
+      ],
+      "fuentes": [
+        {
+          "titulo": "INDUCCIÓN DE PERSONAL NUEVO",
+          "url": "https://app.notion.com/p/1ce3bde37ff380fa8bdbc3697aa4c85e"
+        }
+      ]
+    },
+    {
+      "codigo": "4",
+      "titulo": "Documentación y evidencia",
+      "nivel": 1,
+      "modulo_codigo": "N5",
+      "hoja": false,
+      "archivo_contenido": null,
+      "hijos": [
+        {
+          "codigo": "4.1",
+          "titulo": "Qué lleva un registro",
+          "nivel": 2,
+          "modulo_codigo": "N5",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "4.1.1",
+              "titulo": "Fecha, sede y área",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.1.1-fecha-sede-y-area.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.1.2",
+              "titulo": "Equipo: marca, modelo, serie o inventario",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.1.2-equipo-marca-modelo-serie-o-inventario.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.1.3",
+              "titulo": "Falla o motivo, acciones, pruebas y estado final",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.1.3-falla-o-motivo-acciones-pruebas-y-estado-final.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.1.4",
+              "titulo": "Pendientes y siguiente acción",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.1.4-pendientes-y-siguiente-accion.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "4.2",
+          "titulo": "Cómo se redacta",
+          "nivel": 2,
+          "modulo_codigo": "N5",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "4.2.1",
+              "titulo": "Hechos confirmados",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.2.1-hechos-confirmados.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.2.2",
+              "titulo": "Información de terceros",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.2.2-informacion-de-terceros.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.2.3",
+              "titulo": "Inferencias",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.2.3-inferencias.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.2.4",
+              "titulo": "Datos pendientes de verificar",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.2.4-datos-pendientes-de-verificar.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "4.3",
+          "titulo": "Evidencia",
+          "nivel": 2,
+          "modulo_codigo": "N5",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "4.3.1",
+              "titulo": "Firmas y sellos",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.3.1-firmas-y-sellos.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.3.2",
+              "titulo": "Fotografías",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.3.2-fotografias.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.3.3",
+              "titulo": "Digitalización y subida a Notion o Drive",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.3.3-digitalizacion-y-subida-a-notion-o-drive.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "4.4",
+          "titulo": "Formatos de uso diario",
+          "nivel": 2,
+          "modulo_codigo": "N5",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "4.4.1",
+              "titulo": "Rutinas diarias y semanales",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.4.1-rutinas-diarias-y-semanales.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.4.2",
+              "titulo": "Reportes de mantenimiento preventivo y correctivo",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.4.2-reportes-de-mantenimiento-preventivo-y-correctiv.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.4.3",
+              "titulo": "Incidencias menores y mayores",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.4.3-incidencias-menores-y-mayores.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.4.4",
+              "titulo": "Órdenes de servicio, cotizaciones y viáticos",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.4.4-ordenes-de-servicio-cotizaciones-y-viaticos.md",
+              "hijos": []
+            },
+            {
+              "codigo": "4.4.5",
+              "titulo": "Resumen mensual",
+              "nivel": 3,
+              "modulo_codigo": "N5",
+              "hoja": true,
+              "archivo_contenido": "content/04-documentacion-y-evidencia/4.4.5-resumen-mensual.md",
+              "hijos": []
+            }
+          ]
+        }
+      ],
+      "modulos": [
+        "N5"
+      ],
+      "fuentes": [
+        {
+          "titulo": "Documentos CMJ",
+          "url": "https://app.notion.com/p/2ab3bde37ff380d197a9fd988433dbcd"
+        },
+        {
+          "titulo": "Documentación HC Promedical",
+          "url": "https://app.notion.com/p/2953bde37ff380c2a253ca3556a55a97"
+        }
+      ]
+    },
+    {
+      "codigo": "5",
+      "titulo": "Seguridad y salud en el trabajo",
+      "nivel": 1,
+      "modulo_codigo": "N6",
+      "hoja": false,
+      "archivo_contenido": null,
+      "hijos": [
+        {
+          "codigo": "5.1",
+          "titulo": "Protección personal",
+          "nivel": 2,
+          "modulo_codigo": "N6",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "5.1.1",
+              "titulo": "EPP y su uso correcto",
+              "nivel": 3,
+              "modulo_codigo": "N6",
+              "hoja": true,
+              "archivo_contenido": "content/05-seguridad-y-salud-en-el-trabajo/5.1.1-epp-y-su-uso-correcto.md",
+              "hijos": []
+            },
+            {
+              "codigo": "5.1.2",
+              "titulo": "Ergonomía y manejo de cargas",
+              "nivel": 3,
+              "modulo_codigo": "N6",
+              "hoja": true,
+              "archivo_contenido": "content/05-seguridad-y-salud-en-el-trabajo/5.1.2-ergonomia-y-manejo-de-cargas.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "5.2",
+          "titulo": "Riesgos del oficio",
+          "nivel": 2,
+          "modulo_codigo": "N6",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "5.2.1",
+              "titulo": "Riesgo eléctrico",
+              "nivel": 3,
+              "modulo_codigo": "N6",
+              "hoja": true,
+              "archivo_contenido": "content/05-seguridad-y-salud-en-el-trabajo/5.2.1-riesgo-electrico.md",
+              "hijos": []
+            },
+            {
+              "codigo": "5.2.2",
+              "titulo": "Oxígeno y sistemas a presión",
+              "nivel": 3,
+              "modulo_codigo": "N6",
+              "hoja": true,
+              "archivo_contenido": "content/05-seguridad-y-salud-en-el-trabajo/5.2.2-oxigeno-y-sistemas-a-presion.md",
+              "hijos": []
+            },
+            {
+              "codigo": "5.2.3",
+              "titulo": "Áreas clínicas y control de infecciones",
+              "nivel": 3,
+              "modulo_codigo": "N6",
+              "hoja": true,
+              "archivo_contenido": "content/05-seguridad-y-salud-en-el-trabajo/5.2.3-areas-clinicas-y-control-de-infecciones.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "5.3",
+          "titulo": "Emergencias",
+          "nivel": 2,
+          "modulo_codigo": "N6",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "5.3.1",
+              "titulo": "Salidas y rutas de evacuación",
+              "nivel": 3,
+              "modulo_codigo": "N6",
+              "hoja": true,
+              "archivo_contenido": "content/05-seguridad-y-salud-en-el-trabajo/5.3.1-salidas-y-rutas-de-evacuacion.md",
+              "hijos": []
+            },
+            {
+              "codigo": "5.3.2",
+              "titulo": "Reporte de condiciones inseguras",
+              "nivel": 3,
+              "modulo_codigo": "N6",
+              "hoja": true,
+              "archivo_contenido": "content/05-seguridad-y-salud-en-el-trabajo/5.3.2-reporte-de-condiciones-inseguras.md",
+              "hijos": []
+            },
+            {
+              "codigo": "5.3.3",
+              "titulo": "Cuándo detener un trabajo",
+              "nivel": 3,
+              "modulo_codigo": "N6",
+              "hoja": true,
+              "archivo_contenido": "content/05-seguridad-y-salud-en-el-trabajo/5.3.3-cuando-detener-un-trabajo.md",
+              "hijos": []
+            }
+          ]
+        }
+      ],
+      "modulos": [
+        "N6"
+      ],
+      "fuentes": []
+    },
+    {
+      "codigo": "6",
+      "titulo": "Calidad e indicadores",
+      "nivel": 1,
+      "modulo_codigo": "N7",
+      "hoja": false,
+      "archivo_contenido": null,
+      "hijos": [
+        {
+          "codigo": "6.1",
+          "titulo": "Política de calidad",
+          "nivel": 2,
+          "modulo_codigo": "N7",
+          "hoja": true,
+          "archivo_contenido": "content/06-calidad-e-indicadores/6.1-politica-de-calidad.md",
+          "hijos": []
+        },
+        {
+          "codigo": "6.2",
+          "titulo": "Indicadores que se miden",
+          "nivel": 2,
+          "modulo_codigo": "N7",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "6.2.1",
+              "titulo": "Tiempos de respuesta",
+              "nivel": 3,
+              "modulo_codigo": "N7",
+              "hoja": true,
+              "archivo_contenido": "content/06-calidad-e-indicadores/6.2.1-tiempos-de-respuesta.md",
+              "hijos": []
+            },
+            {
+              "codigo": "6.2.2",
+              "titulo": "Cumplimiento de mantenimientos",
+              "nivel": 3,
+              "modulo_codigo": "N7",
+              "hoja": true,
+              "archivo_contenido": "content/06-calidad-e-indicadores/6.2.2-cumplimiento-de-mantenimientos.md",
+              "hijos": []
+            },
+            {
+              "codigo": "6.2.3",
+              "titulo": "Calidad de la documentación",
+              "nivel": 3,
+              "modulo_codigo": "N7",
+              "hoja": true,
+              "archivo_contenido": "content/06-calidad-e-indicadores/6.2.3-calidad-de-la-documentacion.md",
+              "hijos": []
+            },
+            {
+              "codigo": "6.2.4",
+              "titulo": "Satisfacción del cliente",
+              "nivel": 3,
+              "modulo_codigo": "N7",
+              "hoja": true,
+              "archivo_contenido": "content/06-calidad-e-indicadores/6.2.4-satisfaccion-del-cliente.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "6.3",
+          "titulo": "Mejora continua",
+          "nivel": 2,
+          "modulo_codigo": "N7",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "6.3.1",
+              "titulo": "Cómo leer los tableros",
+              "nivel": 3,
+              "modulo_codigo": "N7",
+              "hoja": true,
+              "archivo_contenido": "content/06-calidad-e-indicadores/6.3.1-como-leer-los-tableros.md",
+              "hijos": []
+            },
+            {
+              "codigo": "6.3.2",
+              "titulo": "Cómo proponer una mejora",
+              "nivel": 3,
+              "modulo_codigo": "N7",
+              "hoja": true,
+              "archivo_contenido": "content/06-calidad-e-indicadores/6.3.2-como-proponer-una-mejora.md",
+              "hijos": []
+            }
+          ]
+        }
+      ],
+      "modulos": [
+        "N7"
+      ],
+      "fuentes": []
+    },
+    {
+      "codigo": "7",
+      "titulo": "Atención al cliente y escalamiento",
+      "nivel": 1,
+      "modulo_codigo": "N8",
+      "hoja": false,
+      "archivo_contenido": null,
+      "hijos": [
+        {
+          "codigo": "7.1",
+          "titulo": "Comunicación con el hospital",
+          "nivel": 2,
+          "modulo_codigo": "N8",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "7.1.1",
+              "titulo": "Reporte verbal",
+              "nivel": 3,
+              "modulo_codigo": "N8",
+              "hoja": true,
+              "archivo_contenido": "content/07-atencion-al-cliente-y-escalamiento/7.1.1-reporte-verbal.md",
+              "hijos": []
+            },
+            {
+              "codigo": "7.1.2",
+              "titulo": "Reporte escrito",
+              "nivel": 3,
+              "modulo_codigo": "N8",
+              "hoja": true,
+              "archivo_contenido": "content/07-atencion-al-cliente-y-escalamiento/7.1.2-reporte-escrito.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "7.2",
+          "titulo": "Escalamiento",
+          "nivel": 2,
+          "modulo_codigo": "N8",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "7.2.1",
+              "titulo": "Cuándo y a quién escalar",
+              "nivel": 3,
+              "modulo_codigo": "N8",
+              "hoja": true,
+              "archivo_contenido": "content/07-atencion-al-cliente-y-escalamiento/7.2.1-cuando-y-a-quien-escalar.md",
+              "hijos": []
+            },
+            {
+              "codigo": "7.2.2",
+              "titulo": "Límites de lo que se puede afirmar sin evidencia",
+              "nivel": 3,
+              "modulo_codigo": "N8",
+              "hoja": true,
+              "archivo_contenido": "content/07-atencion-al-cliente-y-escalamiento/7.2.2-limites-de-lo-que-se-puede-afirmar-sin-evidencia.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "7.3",
+          "titulo": "Capacitación a usuarios",
+          "nivel": 2,
+          "modulo_codigo": "N8",
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "7.3.1",
+              "titulo": "Solicitud, asistencia y constancia",
+              "nivel": 3,
+              "modulo_codigo": "N8",
+              "hoja": true,
+              "archivo_contenido": "content/07-atencion-al-cliente-y-escalamiento/7.3.1-solicitud-asistencia-y-constancia.md",
+              "hijos": []
+            }
+          ]
+        }
+      ],
+      "modulos": [
+        "N8"
+      ],
+      "fuentes": []
+    },
+    {
+      "codigo": "8",
+      "titulo": "Ruta de tu puesto",
+      "nivel": 1,
+      "modulo_codigo": null,
+      "hoja": false,
+      "archivo_contenido": null,
+      "hijos": [
+        {
+          "codigo": "8.1",
+          "titulo": "Biomédica (B1 a B8)",
+          "nivel": 2,
+          "modulo_codigo": null,
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "8.1.1",
+              "titulo": "Flujo de mantenimiento preventivo, correctivo e incidencias",
+              "nivel": 3,
+              "modulo_codigo": "B1",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.1.1-flujo-de-mantenimiento-preventivo-correctivo-e-i.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.1.2",
+              "titulo": "Inventario y expediente por equipo",
+              "nivel": 3,
+              "modulo_codigo": "B2",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.1.2-inventario-y-expediente-por-equipo.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.1.3",
+              "titulo": "Seguridad eléctrica y pruebas de desempeño",
+              "nivel": 3,
+              "modulo_codigo": "B3",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.1.3-seguridad-electrica-y-pruebas-de-desempeno.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.1.4",
+              "titulo": "Rutinas de equipos críticos",
+              "nivel": 3,
+              "modulo_codigo": "B4",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.1.4-rutinas-de-equipos-criticos.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.1.5",
+              "titulo": "Gases medicinales y manifold",
+              "nivel": 3,
+              "modulo_codigo": "B5",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.1.5-gases-medicinales-y-manifold.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.1.6",
+              "titulo": "Control de infecciones y RPBI",
+              "nivel": 3,
+              "modulo_codigo": "B6",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.1.6-control-de-infecciones-y-rpbi.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.1.7",
+              "titulo": "Marco normativo hospitalario",
+              "nivel": 3,
+              "modulo_codigo": "B7",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.1.7-marco-normativo-hospitalario.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.1.8",
+              "titulo": "Capacitación a usuarios",
+              "nivel": 3,
+              "modulo_codigo": "B8",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.1.8-capacitacion-a-usuarios.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "8.2",
+          "titulo": "Servicios generales y PSA (S1 a S5)",
+          "nivel": 2,
+          "modulo_codigo": null,
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "8.2.1",
+              "titulo": "Generadores de oxígeno y sistema PSA",
+              "nivel": 3,
+              "modulo_codigo": "S1",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.2.1-generadores-de-oxigeno-y-sistema-psa.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.2.2",
+              "titulo": "Compresores KAESER",
+              "nivel": 3,
+              "modulo_codigo": "S2",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.2.2-compresores-kaeser.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.2.3",
+              "titulo": "Instalación y llenado (RIX)",
+              "nivel": 3,
+              "modulo_codigo": "S3",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.2.3-instalacion-y-llenado.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.2.4",
+              "titulo": "Inspección y diagnóstico de fallas",
+              "nivel": 3,
+              "modulo_codigo": "S4",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.2.4-inspeccion-y-diagnostico-de-fallas.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.2.5",
+              "titulo": "Aire acondicionado y pisos vinílicos",
+              "nivel": 3,
+              "modulo_codigo": "S5",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.2.5-aire-acondicionado-y-pisos-vinilicos.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "8.3",
+          "titulo": "Ventas y administración (V1 a V3)",
+          "nivel": 2,
+          "modulo_codigo": null,
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "8.3.1",
+              "titulo": "Cotizaciones, requisiciones y viáticos",
+              "nivel": 3,
+              "modulo_codigo": "V1",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.3.1-cotizaciones-requisiciones-y-viaticos.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.3.2",
+              "titulo": "Órdenes de servicio, anexos y licitaciones",
+              "nivel": 3,
+              "modulo_codigo": "V2",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.3.2-ordenes-de-servicio-anexos-y-licitaciones.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.3.3",
+              "titulo": "Entregas, garantías y seguimiento",
+              "nivel": 3,
+              "modulo_codigo": "V3",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.3.3-entregas-garantias-y-seguimiento.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "8.4",
+          "titulo": "Líderes (L1 a L4)",
+          "nivel": 2,
+          "modulo_codigo": null,
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "8.4.1",
+              "titulo": "Liderazgo de póliza y de equipo",
+              "nivel": 3,
+              "modulo_codigo": "L1",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.4.1-liderazgo-de-poliza-y-de-equipo.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.4.2",
+              "titulo": "Tableros e indicadores",
+              "nivel": 3,
+              "modulo_codigo": "L2",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.4.2-tableros-e-indicadores.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.4.3",
+              "titulo": "Formador de formadores",
+              "nivel": 3,
+              "modulo_codigo": "L3",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.4.3-formador-de-formadores.md",
+              "hijos": []
+            },
+            {
+              "codigo": "8.4.4",
+              "titulo": "Administración de Notion",
+              "nivel": 3,
+              "modulo_codigo": "L4",
+              "hoja": true,
+              "archivo_contenido": "content/08-ruta-de-tu-puesto/8.4.4-administracion-de-notion.md",
+              "hijos": []
+            }
+          ]
+        }
+      ],
+      "modulos": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "V1",
+        "V2",
+        "V3",
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ],
+      "fuentes": []
+    },
+    {
+      "codigo": "9",
+      "titulo": "Nivel avanzado (A1 a A5)",
+      "nivel": 1,
+      "modulo_codigo": null,
+      "hoja": false,
+      "archivo_contenido": null,
+      "hijos": [
+        {
+          "codigo": "9.1",
+          "titulo": "Automatización en Notion",
+          "nivel": 2,
+          "modulo_codigo": "A1",
+          "hoja": true,
+          "archivo_contenido": "content/09-nivel-avanzado/9.1-automatizacion-en-notion.md",
+          "hijos": []
+        },
+        {
+          "codigo": "9.2",
+          "titulo": "Analítica de mantenimiento",
+          "nivel": 2,
+          "modulo_codigo": "A2",
+          "hoja": true,
+          "archivo_contenido": "content/09-nivel-avanzado/9.2-analitica-de-mantenimiento.md",
+          "hijos": []
+        },
+        {
+          "codigo": "9.3",
+          "titulo": "Mantenimiento por criticidad y riesgo",
+          "nivel": 2,
+          "modulo_codigo": "A3",
+          "hoja": true,
+          "archivo_contenido": "content/09-nivel-avanzado/9.3-mantenimiento-por-criticidad-y-riesgo.md",
+          "hijos": []
+        },
+        {
+          "codigo": "9.4",
+          "titulo": "IA aplicada al trabajo técnico",
+          "nivel": 2,
+          "modulo_codigo": "A4",
+          "hoja": true,
+          "archivo_contenido": "content/09-nivel-avanzado/9.4-ia-aplicada-al-trabajo-tecnico.md",
+          "hijos": []
+        },
+        {
+          "codigo": "9.5",
+          "titulo": "Mejora continua y gestión de proyectos",
+          "nivel": 2,
+          "modulo_codigo": "A5",
+          "hoja": true,
+          "archivo_contenido": "content/09-nivel-avanzado/9.5-mejora-continua-y-gestion-de-proyectos.md",
+          "hijos": []
+        }
+      ],
+      "modulos": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5"
+      ],
+      "fuentes": [
+        {
+          "titulo": "CAPACITACIONES AL PERSONAL 2026",
+          "url": "https://app.notion.com/p/1ce3bde37ff38009906dd2f59635a6db"
+        }
+      ]
+    },
+    {
+      "codigo": "10",
+      "titulo": "Cómo se evalúa y se certifica",
+      "nivel": 1,
+      "modulo_codigo": null,
+      "hoja": false,
+      "archivo_contenido": null,
+      "hijos": [
+        {
+          "codigo": "10.1",
+          "titulo": "Exámenes",
+          "nivel": 2,
+          "modulo_codigo": null,
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "10.1.1",
+              "titulo": "Mínimo de 80 %",
+              "nivel": 3,
+              "modulo_codigo": null,
+              "hoja": true,
+              "archivo_contenido": "content/10-como-se-evalua-y-se-certifica/10.1.1-minimo-de-80.md",
+              "hijos": []
+            },
+            {
+              "codigo": "10.1.2",
+              "titulo": "Intentos y refuerzo del tutor",
+              "nivel": 3,
+              "modulo_codigo": null,
+              "hoja": true,
+              "archivo_contenido": "content/10-como-se-evalua-y-se-certifica/10.1.2-intentos-y-refuerzo-del-tutor.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "10.2",
+          "titulo": "Prácticas",
+          "nivel": 2,
+          "modulo_codigo": null,
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "10.2.1",
+              "titulo": "Rúbrica: proceso, herramientas, documentación y comunicación",
+              "nivel": 3,
+              "modulo_codigo": null,
+              "hoja": true,
+              "archivo_contenido": "content/10-como-se-evalua-y-se-certifica/10.2.1-rubrica-proceso-herramientas-documentacion-y-com.md",
+              "hijos": []
+            },
+            {
+              "codigo": "10.2.2",
+              "titulo": "La seguridad invalida la práctica",
+              "nivel": 3,
+              "modulo_codigo": null,
+              "hoja": true,
+              "archivo_contenido": "content/10-como-se-evalua-y-se-certifica/10.2.2-la-seguridad-invalida-la-practica.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "10.3",
+          "titulo": "Seguimiento",
+          "nivel": 2,
+          "modulo_codigo": null,
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "10.3.1",
+              "titulo": "Tutor asignado",
+              "nivel": 3,
+              "modulo_codigo": null,
+              "hoja": true,
+              "archivo_contenido": "content/10-como-se-evalua-y-se-certifica/10.3.1-tutor-asignado.md",
+              "hijos": []
+            },
+            {
+              "codigo": "10.3.2",
+              "titulo": "Plan de 30, 60 y 90 días",
+              "nivel": 3,
+              "modulo_codigo": null,
+              "hoja": true,
+              "archivo_contenido": "content/10-como-se-evalua-y-se-certifica/10.3.2-plan-de-30-60-y-90-dias.md",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "codigo": "10.4",
+          "titulo": "Certificación",
+          "nivel": 2,
+          "modulo_codigo": null,
+          "hoja": false,
+          "archivo_contenido": null,
+          "hijos": [
+            {
+              "codigo": "10.4.1",
+              "titulo": "Autorizado, autorizado con supervisión o no autorizado",
+              "nivel": 3,
+              "modulo_codigo": null,
+              "hoja": true,
+              "archivo_contenido": "content/10-como-se-evalua-y-se-certifica/10.4.1-autorizado-autorizado-con-supervision-o-no-autor.md",
+              "hijos": []
+            },
+            {
+              "codigo": "10.4.2",
+              "titulo": "Recertificación anual",
+              "nivel": 3,
+              "modulo_codigo": null,
+              "hoja": true,
+              "archivo_contenido": "content/10-como-se-evalua-y-se-certifica/10.4.2-recertificacion-anual.md",
+              "hijos": []
+            }
+          ]
+        }
+      ],
+      "modulos": [],
+      "fuentes": [
+        {
+          "titulo": "PROGRAMA DE ONBOARDING",
+          "url": "https://app.notion.com/p/34f3bde37ff3807e9c82ec5407a3376c"
+        },
+        {
+          "titulo": "INDUCCIÓN DE PERSONAL NUEVO",
+          "url": "https://app.notion.com/p/1ce3bde37ff380fa8bdbc3697aa4c85e"
+        }
+      ]
+    }
+  ]
+}

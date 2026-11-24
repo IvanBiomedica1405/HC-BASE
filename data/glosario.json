@@ -1,0 +1,122 @@
+[
+  {
+    "sigla": "MP",
+    "expansion": "Mantenimiento preventivo",
+    "definicion": "Mantenimiento programado para evitar fallas, según el calendario de mantenimiento.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "MC",
+    "expansion": "Mantenimiento correctivo",
+    "definicion": "Intervención para reparar una falla ya ocurrida.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "INC",
+    "expansion": "Incidencia",
+    "definicion": "Evento o falla reportada que se clasifica como menor o mayor y se registra con su formato.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "EPP",
+    "expansion": "Equipo de protección personal",
+    "definicion": "Casco, guantes, lentes, chaleco, botas, tapones auditivos o respirador, según el área de riesgo.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "OS",
+    "expansion": "Orden de servicio",
+    "definicion": "Documento que autoriza y registra un servicio o entrega.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "PSA",
+    "expansion": "Adsorción por oscilación de presión",
+    "definicion": "Tecnología de los sistemas que generan oxígeno a partir del aire.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "RPBI",
+    "expansion": "Residuos peligrosos biológico-infecciosos",
+    "definicion": "Residuos generados en la atención médica que requieren manejo especial.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "KPI",
+    "expansion": "Indicador clave de desempeño",
+    "definicion": "Medida con la que se evalúa un resultado, como el tiempo de respuesta o el cumplimiento de mantenimientos.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "NOM",
+    "expansion": "Norma Oficial Mexicana",
+    "definicion": "Regulación técnica obligatoria emitida por dependencias del gobierno federal.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "STPS",
+    "expansion": "Secretaría del Trabajo y Previsión Social",
+    "definicion": "Dependencia que emite las normas de seguridad y salud en el trabajo (NOM-STPS).",
+    "estado": "validado"
+  },
+  {
+    "sigla": "SSA",
+    "expansion": "Secretaría de Salud",
+    "definicion": "Dependencia que emite las normas del sector salud (NOM-SSA).",
+    "estado": "validado"
+  },
+  {
+    "sigla": "IEC",
+    "expansion": "Comisión Electrotécnica Internacional",
+    "definicion": "Organismo que publica estándares como IEC 60601-1 e IEC 62353 para equipo electromédico.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "NFPA",
+    "expansion": "Asociación Nacional de Protección contra Incendios",
+    "definicion": "Organismo que publica estándares, entre ellos NFPA 99 sobre instalaciones de salud y gases medicinales.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "PDCA",
+    "expansion": "Planear, hacer, verificar, actuar",
+    "definicion": "Ciclo de mejora continua.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "CMJ",
+    "expansion": "Centro Médico Jurica",
+    "definicion": "Cliente y póliza de HC en Querétaro.",
+    "estado": "validado"
+  },
+  {
+    "sigla": "AIRSEP",
+    "expansion": "Marca de generadores de oxígeno",
+    "definicion": "Una de las marcas de generadores de oxígeno que HC atiende.",
+    "estado": "por-validar"
+  },
+  {
+    "sigla": "MOSS",
+    "expansion": "Marca de generadores de oxígeno",
+    "definicion": "Una de las marcas de generadores de oxígeno que HC atiende.",
+    "estado": "por-validar"
+  },
+  {
+    "sigla": "KAESER",
+    "expansion": "Marca de compresores",
+    "definicion": "Marca de los compresores que forman parte de los sistemas PSA de HC.",
+    "estado": "por-validar"
+  },
+  {
+    "sigla": "RIX",
+    "expansion": "Sistema de llenado RIX",
+    "definicion": "Equipo de llenado que forma parte de los sistemas de generación de oxígeno de HC.",
+    "estado": "por-validar"
+  },
+  {
+    "sigla": "Manifold",
+    "expansion": "Manifold de gases medicinales",
+    "definicion": "Conjunto de distribución que alimenta la red de gases medicinales de una instalación.",
+    "estado": "por-validar"
+  }
+]

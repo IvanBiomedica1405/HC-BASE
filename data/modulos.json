@@ -1,0 +1,266 @@
+[
+  {
+    "codigo": "N1",
+    "nombre": "Cultura, ética y políticas HC",
+    "grupo": "nucleo",
+    "horas": 2,
+    "evidencia": "Examen ≥ 80 % y firma del compromiso de honestidad y ética",
+    "orden": 1
+  },
+  {
+    "codigo": "N2",
+    "nombre": "Seguridad de la información y accesos",
+    "grupo": "nucleo",
+    "horas": 1.5,
+    "evidencia": "Examen ≥ 80 % y acuse de confidencialidad",
+    "orden": 2
+  },
+  {
+    "codigo": "N3",
+    "nombre": "Notion esencial",
+    "grupo": "nucleo",
+    "horas": 3,
+    "evidencia": "Práctica en área de pruebas: crear un registro y una vista filtrada",
+    "orden": 3
+  },
+  {
+    "codigo": "N4",
+    "nombre": "Convenciones HC en Notion",
+    "grupo": "nucleo",
+    "horas": 2,
+    "evidencia": "Ejercicio: corregir 5 registros mal nombrados o duplicados",
+    "orden": 4
+  },
+  {
+    "codigo": "N5",
+    "nombre": "Documentación técnica y evidencia",
+    "grupo": "nucleo",
+    "horas": 2,
+    "evidencia": "Práctica: llenar un reporte de servicio completo con un caso simulado",
+    "orden": 5
+  },
+  {
+    "codigo": "N6",
+    "nombre": "Seguridad y salud en el trabajo",
+    "grupo": "nucleo",
+    "horas": 3,
+    "evidencia": "Examen ≥ 80 % y práctica de uso de EPP",
+    "orden": 6
+  },
+  {
+    "codigo": "N7",
+    "nombre": "Calidad, indicadores y mejora continua",
+    "grupo": "nucleo",
+    "horas": 2,
+    "evidencia": "Examen ≥ 80 % y una propuesta de mejora registrada",
+    "orden": 7
+  },
+  {
+    "codigo": "N8",
+    "nombre": "Comunicación con el cliente y escalamiento",
+    "grupo": "nucleo",
+    "horas": 2,
+    "evidencia": "Práctica: simulación de reporte a un cliente",
+    "orden": 8
+  },
+  {
+    "codigo": "B1",
+    "nombre": "Flujo MP, MC e incidencias",
+    "grupo": "biomedica",
+    "horas": 3,
+    "evidencia": "Examen y reporte de práctica",
+    "orden": 9
+  },
+  {
+    "codigo": "B2",
+    "nombre": "Inventario y expediente por equipo",
+    "grupo": "biomedica",
+    "horas": 2,
+    "evidencia": "Examen y práctica sobre copia del inventario",
+    "orden": 10
+  },
+  {
+    "codigo": "B3",
+    "nombre": "Seguridad eléctrica y pruebas de desempeño",
+    "grupo": "biomedica",
+    "horas": 4,
+    "evidencia": "Examen y práctica con analizador",
+    "orden": 11
+  },
+  {
+    "codigo": "B4",
+    "nombre": "Rutinas de equipos críticos",
+    "grupo": "biomedica",
+    "horas": 4,
+    "evidencia": "Examen y rutina supervisada",
+    "orden": 12
+  },
+  {
+    "codigo": "B5",
+    "nombre": "Gases medicinales y manifold",
+    "grupo": "biomedica",
+    "horas": 3,
+    "evidencia": "Examen y práctica supervisada",
+    "orden": 13
+  },
+  {
+    "codigo": "B6",
+    "nombre": "Control de infecciones y RPBI en el hospital",
+    "grupo": "biomedica",
+    "horas": 2,
+    "evidencia": "Examen",
+    "orden": 14
+  },
+  {
+    "codigo": "B7",
+    "nombre": "Marco normativo hospitalario",
+    "grupo": "biomedica",
+    "horas": 2,
+    "evidencia": "Examen",
+    "orden": 15
+  },
+  {
+    "codigo": "B8",
+    "nombre": "Capacitación a usuarios",
+    "grupo": "biomedica",
+    "horas": 2,
+    "evidencia": "Práctica: sesión con solicitud, lista de asistencia y constancia",
+    "orden": 16
+  },
+  {
+    "codigo": "S1",
+    "nombre": "Generadores de oxígeno y sistema PSA",
+    "grupo": "servicios",
+    "horas": 4,
+    "evidencia": "Examen y práctica de identificación del equipo",
+    "orden": 17
+  },
+  {
+    "codigo": "S2",
+    "nombre": "Compresores KAESER",
+    "grupo": "servicios",
+    "horas": 3,
+    "evidencia": "Examen y práctica supervisada",
+    "orden": 18
+  },
+  {
+    "codigo": "S3",
+    "nombre": "Instalación y llenado",
+    "grupo": "servicios",
+    "horas": 3,
+    "evidencia": "Examen y práctica supervisada",
+    "orden": 19
+  },
+  {
+    "codigo": "S4",
+    "nombre": "Inspección y diagnóstico de fallas",
+    "grupo": "servicios",
+    "horas": 3,
+    "evidencia": "Examen y simulación de incidencia",
+    "orden": 20
+  },
+  {
+    "codigo": "S5",
+    "nombre": "Aire acondicionado y pisos vinílicos",
+    "grupo": "servicios",
+    "horas": 3,
+    "evidencia": "Examen y análisis de casos",
+    "orden": 21
+  },
+  {
+    "codigo": "V1",
+    "nombre": "Cotizaciones, requisiciones y viáticos",
+    "grupo": "ventas",
+    "horas": 2,
+    "evidencia": "Práctica: solicitud completa en Notion",
+    "orden": 22
+  },
+  {
+    "codigo": "V2",
+    "nombre": "Órdenes de servicio, anexos técnicos y licitaciones",
+    "grupo": "ventas",
+    "horas": 3,
+    "evidencia": "Práctica: OS y anexo con caso simulado",
+    "orden": 23
+  },
+  {
+    "codigo": "V3",
+    "nombre": "Entregas, garantías y seguimiento al cliente",
+    "grupo": "ventas",
+    "horas": 2,
+    "evidencia": "Práctica: carta de entrega y reporte fotográfico",
+    "orden": 24
+  },
+  {
+    "codigo": "L1",
+    "nombre": "Liderazgo de póliza y de equipo",
+    "grupo": "lideres",
+    "horas": 3,
+    "evidencia": "Caso práctico evaluado",
+    "orden": 25
+  },
+  {
+    "codigo": "L2",
+    "nombre": "Tableros e indicadores",
+    "grupo": "lideres",
+    "horas": 3,
+    "evidencia": "Tablero con 3 indicadores del área",
+    "orden": 26
+  },
+  {
+    "codigo": "L3",
+    "nombre": "Formador de formadores",
+    "grupo": "lideres",
+    "horas": 4,
+    "evidencia": "Sesión impartida y evaluada",
+    "orden": 27
+  },
+  {
+    "codigo": "L4",
+    "nombre": "Administración de Notion",
+    "grupo": "lideres",
+    "horas": 4,
+    "evidencia": "Práctica de permisos, plantillas y verificación de páginas",
+    "orden": 28
+  },
+  {
+    "codigo": "A1",
+    "nombre": "Automatización en Notion",
+    "grupo": "avanzado",
+    "horas": 4,
+    "evidencia": "Una automatización en uso que elimina un paso manual",
+    "orden": 29
+  },
+  {
+    "codigo": "A2",
+    "nombre": "Analítica de mantenimiento",
+    "grupo": "avanzado",
+    "horas": 4,
+    "evidencia": "Un tablero con 3 indicadores de su área",
+    "orden": 30
+  },
+  {
+    "codigo": "A3",
+    "nombre": "Mantenimiento por criticidad y riesgo",
+    "grupo": "avanzado",
+    "horas": 4,
+    "evidencia": "Una matriz de criticidad de un área",
+    "orden": 31
+  },
+  {
+    "codigo": "A4",
+    "nombre": "IA aplicada al trabajo técnico",
+    "grupo": "avanzado",
+    "horas": 3,
+    "evidencia": "Un reporte asistido por IA con su cotejo documentado",
+    "orden": 32
+  },
+  {
+    "codigo": "A5",
+    "nombre": "Mejora continua y gestión de proyectos",
+    "grupo": "avanzado",
+    "horas": 4,
+    "evidencia": "Una propuesta presentada a dirección",
+    "orden": 33
+  }
+]

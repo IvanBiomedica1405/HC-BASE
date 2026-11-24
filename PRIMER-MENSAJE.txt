@@ -1,0 +1,10 @@
+Lee README.md, CLAUDE.md y todos los archivos de docs/ completos; revisa también data/, design/tokens.css y supabase/migrations/0001_esquema.sql.
+
+Después entra en modo plan y devuélveme, sin escribir código todavía:
+
+1. La estructura de carpetas del proyecto.
+2. Las decisiones de arquitectura que cambiarías de docs/04-arquitectura.md y docs/07-decisiones.md, con tu razón.
+3. El plan detallado de la Fase 0 y la Fase 1 de docs/05-fases.md: archivos a crear, orden de trabajo y pruebas.
+4. Las dudas que necesites resolver conmigo antes de empezar.
+
+Reglas que no se negocian: no inventes contenido técnico ni normas, mantén las sedes separadas, no dejes marcas de herramientas de generación en el código ni en la interfaz, y cierra cada fase con `pnpm check` y `pnpm test:e2e` en verde.
